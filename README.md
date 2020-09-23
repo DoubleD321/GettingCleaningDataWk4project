@@ -9,7 +9,7 @@
 ## A full description is available at the site where the data was obtained:
 ## http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-## The R script, called wk4Project.R, does the following:
+## The R script, called wk4Project_updated.R, does the following:
 
 ## 1 Merges the training and the test sets to create one data set.
 ## 2 Extracts only the measurements on the mean and standard deviation for each 
